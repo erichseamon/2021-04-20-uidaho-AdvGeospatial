@@ -436,8 +436,6 @@ A few other zoom/video conferencing housekeeping issues:
 
 4. We will try to leverage zoom as much as possible.  We are not going to use any other software, other than Rstudio and zoom.  However, we will be lecturing using the materials referenced above.  So - following along via your browser with the lesson we are going over will be helpful.  That means: Rstudio + zoom + web browser.  You can see why two monitors will be helpful if possible.
 
-Zoom Access: password required - password is: idaho_geo
-
 Topic: BCB 503 Advanced Geospatial Analysis Workshop
 
 Join Zoom Meeting
